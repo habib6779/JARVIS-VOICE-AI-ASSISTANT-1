@@ -1,0 +1,8 @@
+{
+  "name": "JARVIS",
+  "description": "Real-time AI voice assistant powered by Gemini Live WebSocket audio streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
